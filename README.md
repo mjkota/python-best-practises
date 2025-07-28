@@ -1,6 +1,6 @@
 # Python Best Practices
 
-Based on analysis of Tech With Tim's tutorials and content, here are the key Python best practices that Tim Ruscica emphasizes in his teaching:
+Here are the key Python best practices
 
 ## Core Programming Fundamentals
 
